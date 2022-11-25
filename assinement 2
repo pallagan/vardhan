@@ -1,0 +1,8 @@
+list=[22,55,11,88,55,76,34,32,5,7,2,56,30]
+min=list[0]
+for i in list:
+    if i<min:
+        min=i
+print('Minium number is=',min)
+out put:
+Minium number is= 2
