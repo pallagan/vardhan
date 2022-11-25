@@ -1,0 +1,9 @@
+list=[22,55,11,88,55,76,34,32,5,7,2,56,30]
+a=int(input('\nEnter any number:'))
+if a in list:
+    print('Yes')
+else:
+    print('No'
+ out put:
+ Enter any number:8
+No
